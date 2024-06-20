@@ -1,17 +1,19 @@
 ﻿# crud_django
-## Instalação:
+## INSTALAÇÃO:
 '''
 pip install -r requirements.txt
 '''
-## Inicialização:
+## INICIALIZAÇÃO:
 '''
 python manage.py runserver
 '''
-## Observações:
+## OBSERVAÇÕES:
 '''
 certifique-se de estar no mesmo diretório do manage.py.
 ex: crud-with-django/manage.py
 '''
+# IMAGENS: 
+
 # 1:
 ![crud1](https://github.com/blueIsaac1/crud_django/assets/144810253/65cfde00-72c2-4223-8cee-26acbb98ed3a)
 # 2:
